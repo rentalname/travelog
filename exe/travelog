@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+require 'travelog'
+
+diff = Travelog::Diff.new
+ARGF.each_line do |line|
+  diff << line
+end
+
+diff.report
