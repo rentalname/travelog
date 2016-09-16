@@ -1,6 +1,4 @@
-# Travelog
-
-[![Gem Version](https://badge.fury.io/rb/travelog.svg)](https://badge.fury.io/rb/travelog)
+# Travelog [![Gem Version](https://badge.fury.io/rb/travelog.svg)](https://badge.fury.io/rb/travelog)
 
 ## Installation
 
